@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: MLProject
+Version: 0.0.1
+Author: ROhan
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
