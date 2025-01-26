@@ -1,0 +1,6 @@
+[2025-01-26 12:37:20,059] 24 - root - INFO - Entered the data ingestion
+[2025-01-26 12:37:20,105] 28 - root - INFO - Reading the dataset as Dataframe
+[2025-01-26 12:37:20,113] 34 - root - INFO - Train Test Split Initiated
+[2025-01-26 12:37:20,131] 40 - root - INFO - Data Ingestion completed
+[2025-01-26 12:37:20,147] 67 - root - INFO - Reading of train and test data completed
+[2025-01-26 12:37:20,147] 69 - root - INFO - Obtaining preprocessing object
